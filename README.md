@@ -40,29 +40,6 @@ Currently working on **GenAI/AI Agent platforms** using AWS Bedrock, LLMs, and R
 
 ---
 
-### Featured Projects
-
-#### [Food Delivery Platform](https://github.com/prudhvi10007/food-delivery-platform) - Full-Stack Microservices
-A full-stack food delivery application built with **Angular + Spring Boot** microservices, deployed on **AWS EKS** with **ArgoCD GitOps**.
-
-```
-food-delivery-platform/
-  +-- frontend/                 # Angular 16 SPA
-  +-- restaurant-service/       # Spring Boot + MySQL
-  +-- food-catalogue-service/   # Spring Boot + MySQL
-  +-- order-service/            # Spring Boot + MongoDB
-  +-- user-service/             # Spring Boot + MySQL
-  +-- eureka-service/           # Netflix Eureka Discovery
-  +-- deployment/               # K8s manifests + ArgoCD GitOps
-```
-
-**Highlights:** 6 microservices, Eureka discovery, LoadBalanced REST, Docker, AWS EKS, ArgoCD, Jenkins CI/CD, SonarQube
-
-#### [AI Integration Service](https://github.com/prudhvi10007/ai-integration)
-Spring Boot service integrating **AWS Bedrock LLMs** (Claude, Titan, Nova Pro) with Kafka event streaming, Keycloak security, and RAG-based knowledge retrieval.
-
----
-
 ### Certifications
 
 - **AWS Certified Developer - Associate**
@@ -83,6 +60,3 @@ Spring Boot service integrating **AWS Bedrock LLMs** (Claude, Titan, Nova Pro) w
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prudhvi.thondapu@gmail.com)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prudhvi10007&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prudhvi10007&layout=compact&hide_border=true)
